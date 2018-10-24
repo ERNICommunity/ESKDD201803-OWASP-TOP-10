@@ -4,6 +4,7 @@ transition: "slide"
 highlightTheme: "darkula"
 controls: false
 transitionSpeed: fast
+progress: false
 ---
 
 # OWASP Top 10
