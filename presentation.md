@@ -1,13 +1,13 @@
 ---
-theme : "night"
+theme : "black"
 transition: "slide"
-highlightTheme: "darkula"
+highlightTheme: "dracula"
 controls: false
 transitionSpeed: fast
 progress: false
 ---
 
-# OWASP Top 10
+# OWASP Top 10 - 2017
 
 The Ten Most Critical Web Application Security Risk
 
@@ -18,6 +18,11 @@ The Ten Most Critical Web Application Security Risk
 --
 
 The **Open Web Application Security Project** (OWASP) is an open community dedicated to enabling organizations to develop, purchase, and maintain applications and APIs that can be trusted.
+
+note:
+
+* non-profit organization since 2001
+* 8 employees and 42k+ volunteers
 
 --
 
